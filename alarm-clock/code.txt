@@ -1,0 +1,12 @@
+Copy the following html embed tag and paste it in your page:
+
+<div align=center><embed src=http://www.coolwidgetsgadgets.com/clocks/alarm-clock.swf width=200 height=200 wmode=transparent type=application/x-shockwave-flash></embed><br><a href="http://www.coolwidgetsgadgets.com">Cool widgets</a></div>
+
+
+
+
+
+
+If you like us, a link is always appreciated, but if you don't want the text link under the clock you can use:
+
+<embed src=http://www.coolwidgetsgadgets.com/clocks/alarm-clock.swf width=200 height=200 wmode=transparent type=application/x-shockwave-flash></embed>
